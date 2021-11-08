@@ -1,6 +1,6 @@
 
 /**
-
+a very simple java project!
  */
 import java.util.*;
 public class RetailOutlet
