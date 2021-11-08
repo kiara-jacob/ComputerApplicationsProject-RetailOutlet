@@ -1,7 +1,10 @@
+// Did this at the age of 15 as part of a school project back in 2018
+
+
 # ComputerApplicationsProject-RetailOutlet
 A simple Java program intended to simulate a Retail Outlet (or online shopping platform) which generates multiple menus for the user to choose from and then generates a final bill.
 
-(further details: done as part of a school project in 2018)
+
 Problem Listing:
 Create a Java application for a RETAIL OUTLET which generates a menu for the user to choose from the following options:
 - Choice 1: Women’s clothing
