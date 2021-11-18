@@ -1,4 +1,4 @@
-// Did this at the age of 15 as part of a school project back in 2018
+// December 2018
 
 
 # ComputerApplicationsProject-RetailOutlet
